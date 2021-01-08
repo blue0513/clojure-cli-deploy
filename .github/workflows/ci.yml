@@ -1,3 +1,4 @@
+environment: deploy
 name: ci
 on: [ workflow_dispatch ]
 jobs:
