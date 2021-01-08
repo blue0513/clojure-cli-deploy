@@ -4,7 +4,7 @@
   <groupId>org.clojars.blue0513</groupId>
   <artifactId>clojure-cli-deploy</artifactId>
   <packaging>jar</packaging>
-  <version>0.1.1</version>
+  <version>0.1.2</version>
   <name>clojure-cli-deploy</name>
   <url>http://github.com/blue0513/clojure-cli-deploy</url>
   <licenses>
