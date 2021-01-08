@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>clojure-cli-deploy</groupId>
+  <groupId>org.clojars.blue0513</groupId>
   <artifactId>clojure-cli-deploy</artifactId>
-  <version>0.1.0</version>
+  <packaging>jar</packaging>
+  <version>0.1.1</version>
   <name>clojure-cli-deploy</name>
+  <url>http://github.com/blue0513/clojure-cli-deploy</url>
+  <licenses>
+    <license>
+      <name>EPL-2.0 OR GPL-2.0-or-later WITH Classpath-exception-2.0</name>
+      <url>https://www.eclipse.org/legal/epl-2.0/</url>
+    </license>
+  </licenses>
+  <scm>
+    <url>https://github.com/blue0513/clojure-cli-deploy</url>
+    <connection>scm:git:git://github.com/blue0513/clojure-cli-deploy.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/blue0513/clojure-cli-deploy.git</developerConnection>
+    <tag>HEAD</tag>
+  </scm>
   <dependencies>
     <dependency>
       <groupId>org.clojure</groupId>
